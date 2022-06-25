@@ -30,7 +30,8 @@ url: "jbhua.github.io" # the base hostname & protocol for your site, e.g. http:/
 github_username:  JBHua
 
 # Build settings
-theme: jekyll-athena
+#theme: jekyll-athena
+remote_theme: jekyll-athena
 plugins:
   - jekyll-feed
 
