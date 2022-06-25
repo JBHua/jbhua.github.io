@@ -31,7 +31,7 @@ github_username:  JBHua
 
 # Build settings
 #theme: jekyll-athena
-remote_theme: jekyll-athena
+remote_theme: broccolini/athena
 plugins:
   - jekyll-feed
 
