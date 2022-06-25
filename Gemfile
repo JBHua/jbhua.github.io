@@ -10,7 +10,8 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 4.2.2"
 gem "github-pages", "~> 226", group: :jekyll_plugins
 gem "jekyll-athena"
-
+# https://github.com/jekyll/jekyll/issues/8523
+gem "webrick"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
